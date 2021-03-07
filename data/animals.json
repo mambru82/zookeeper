@@ -147,6 +147,17 @@
         "goofy"
       ],
       "id": "14"
+    },
+    {
+      "name": "Riyam",
+      "species": "Totoro",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious",
+        "loving"
+      ],
+      "id": "15"
     }
   ]
 }
