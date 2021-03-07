@@ -136,6 +136,17 @@
         "silly"
       ],
       "id": "13"
+    },
+    {
+      "name": "Eduardo",
+      "species": "Asshole",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
